@@ -39,9 +39,6 @@ I'm Hassan El Qadi, a third-year Finance & Decision-Making Engineering student a
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanelq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&hide_border=false&theme=dark" height="160" alt="GitHub Language Stats"  />
 </div>
 
-<p align="center"><samp>
-Check out my repos ⬇️  
-</samp></p>
 
 <!-- Connect with me section -->
 ## 🤝 Let's Connect
@@ -49,3 +46,7 @@ Check out my repos ⬇️
   <a href="https://linkedin.com/in/el-qadi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:hassanelqadi3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+<p align="center"><samp>
+Check out my repos ⬇️  
+</samp></p>
