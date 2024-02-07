@@ -30,8 +30,7 @@ I'm Hassan El Qadi, a third-year Finance & Decision-Making Engineering student a
 </p>
 
 <div align="center">
-  <!-- Replace 'your-gif-link' with the actual link to your GIF -->
-  <img src="your-gif-link" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/EauwThrXwq0EWngOcT/giphy.gif" alt="Coding GIF">
 </div>
 
 <div align="center">
