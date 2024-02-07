@@ -30,13 +30,13 @@ I'm Hassan El Qadi, a third-year Finance & Decision-Making Engineering student a
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/EauwThrXwq0EWngOcT/giphy.gif" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/Q2T7BXRiDFPJcPoA7Z/giphy.gif" alt="Coding GIF">
 </div>
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://streak-stats.demolab.com?user=yourGitHubUsername&locale=en&mode=weekly&hide_border=false&border_radius=5&theme=dark" height="160" alt="GitHub Streak Stats"  /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourGitHubUsername&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&hide_border=false&theme=dark" height="160" alt="GitHub Language Stats"  />
+  <img src="https://streak-stats.demolab.com?user=hassanelq&locale=en&mode=weekly&hide_border=false&border_radius=5&theme=dark" height="160" alt="GitHub Streak Stats"  /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanelq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&hide_border=false&theme=dark" height="160" alt="GitHub Language Stats"  />
 </div>
 
 <p align="center"><samp>
@@ -46,6 +46,6 @@ Check out my repos ⬇️
 <!-- Connect with me section -->
 ## 🤝 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/el-qadi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:hassanelqadi3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
