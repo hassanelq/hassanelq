@@ -1,32 +1,26 @@
 <h1 align="center">
-  <b>Hassan EL QADI - Finance & decision-making Engineering student</b>
+  <b>Hassan EL QADI - Finance & Quantitative Engineering Enthusiast</b>
 </h1>
 
 <p align="center"><samp>
-I'm Hassan El Qadi, a third-year Finance & Decision-Making Engineering student at ENSA Agadir and a passionate software developer. My academic and professional paths are carved with a deep enthusiasm for data science and a portfolio of blockchain and web projects. Driven by curiosity, I immerse myself in the tech world, always eager to face new challenges and pioneer innovative solutions. Let's journey together through the vast landscape of technology, sharing insights and fueling our collective quest for discovery! 🚀
+I'm Hassan El Qadi, a fourth-year Finance & Decision-Making Engineering student at ENSA Agadir with a passion for Quantitative Finance and software development. My journey blends advanced financial analytics with cutting-edge technologies, allowing me to dive into the realms of data science, algorithmic trading, and blockchain innovation. With a constant drive to solve complex problems, I'm building a future powered by finance and technology. Join me in exploring the world of quantitative strategies and transformative solutions! 🚀
 </samp></p>
 
 <p align="center">
   <!-- Tech Badges -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
+  <img src="https://img.shields.io/badge/Quantlib-1C9AD6?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 </p>
 
 <div align="center">
@@ -39,8 +33,48 @@ I'm Hassan El Qadi, a third-year Finance & Decision-Making Engineering student a
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanelq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&hide_border=false&theme=dark" height="160" alt="GitHub Language Stats"  />
 </div>
 
+---
 
-<!-- Connect with me section -->
+## 📊 Quantitative Finance Projects
+
+### 🚀 Algorithmic Trading Strategies
+- Developed quantitative trading algorithms using **Python** and **Quantlib**.
+- Implemented backtesting frameworks with **Pandas** and **NumPy**.
+- Optimized risk-reward ratios using **Monte Carlo simulations** and **Markowitz portfolio theory**.
+
+### 🔍 Financial Data Analysis
+- Analyzed large financial datasets using **R** and **Tableau**.
+- Built predictive models for stock price movements leveraging **machine learning (Scikit-learn)**.
+
+### 🛠️ Blockchain & Financial Security
+- Designed decentralized applications (DApps) with **Solidity** for secure financial transactions.
+- Explored the intersection of blockchain and quantitative finance for asset tokenization.
+
+---
+
+## 🔧 Tech Skills in Focus
+
+### Programming for Quant:
+- **Python**: Data analysis, machine learning, algorithm development.
+- **R**: Statistical computing and data visualization.
+- **SQL**: Efficient financial database querying.
+- **Matlab**: Numerical analysis and algorithm prototyping.
+
+### Financial Tools & Libraries:
+- **Quantlib**: Fixed-income analytics and derivatives pricing.
+- **Pandas/NumPy**: Data manipulation and numerical computing.
+- **Scikit-learn**: Building predictive financial models.
+
+### Data Visualization:
+- **Tableau**: Interactive financial dashboards.
+- **Matplotlib/Seaborn**: In-depth plotting for analytics.
+
+### Other Tools:
+- **Git/Docker**: Version control and containerization for financial apps.
+- **Linux**: Workflow optimization and script automation.
+
+---
+
 ## 🤝 Let's Connect
 <p align="center">
   <a href="https://linkedin.com/in/el-qadi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -48,5 +82,5 @@ I'm Hassan El Qadi, a third-year Finance & Decision-Making Engineering student a
 </p>
 
 <p align="center"><samp>
-Check out my repos ⬇️  
+Check out my repositories below to dive deeper into the world of finance and tech ⬇️  
 </samp></p>
