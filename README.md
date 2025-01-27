@@ -29,7 +29,6 @@ I'm Hassan El Qadi, a fourth-year Finance & Decision-Making Engineering student 
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://streak-stats.demolab.com?user=hassanelq&locale=en&mode=weekly&hide_border=false&border_radius=5&theme=dark" height="160" alt="GitHub Streak Stats"  /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanelq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&hide_border=false&theme=dark" height="160" alt="GitHub Language Stats"  />
 </div>
 
