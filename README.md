@@ -36,8 +36,8 @@ I'm Hassan El Qadi, a fourth-year Finance & Decision-Making Engineering student 
 
 ## 📊 Quantitative Finance Projects
 
-### 🚀 Algorithmic Trading Strategies
-- Developed quantitative trading algorithms using **Python** and **Quantlib**.
+### 🚀 Pricing derivatives
+- Developed pricing models using **Python** and **Quantlib**.
 - Implemented backtesting frameworks with **Pandas** and **NumPy**.
 - Optimized risk-reward ratios using **Monte Carlo simulations** and **Markowitz portfolio theory**.
 
@@ -56,13 +56,13 @@ I'm Hassan El Qadi, a fourth-year Finance & Decision-Making Engineering student 
 - **SQL**: Efficient financial database querying.
 
 ### Financial Tools & Libraries:
-- **Quantlib**: Fixed-income analytics and derivatives pricing.
 - **Pandas/NumPy**: Data manipulation and numerical computing.
 - **Scikit-learn**: Building predictive financial models.
+- **Quantlib**: Fixed-income analytics and derivatives pricing.
 
 ### Data Visualization:
-- **Tableau**: Interactive financial dashboards.
 - **Matplotlib/Seaborn**: In-depth plotting for analytics.
+- **Tableau**: Interactive financial dashboards.
 
 ### Other Tools:
 - **Git/Docker**: Version control and containerization for financial apps.
