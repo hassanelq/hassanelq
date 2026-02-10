@@ -1,7 +1,7 @@
 <h1 align="center">
   <b>Hassan El Qadi</b><br/>
   <span style="font-size: 0.9em;">
-    Quantitative finance engineering student at ENSA Agadir | Quantitative Developer Intern at Finamaze
+  Quantitative Developer Intern
   </span>
 </h1>
 
