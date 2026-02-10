@@ -1,10 +1,12 @@
 <h1 align="center">
-  <b>Hassan EL QADI - Finance & Quantitative Engineering</b>
+  <b>Hassan El Qadi</b><br/>
+  <span style="font-size: 0.9em;">
+    Quantitative finance engineering student at ENSA Agadir | Quantitative Developer Intern at Finamaze
+  </span>
 </h1>
 
 <p align="center"><samp>
-I'm Hassan El Qadi, a fourth-year Finance & Decision-Making Engineering student at ENSA Agadir with a passion for Quantitative Finance and software development. My journey blends advanced financial analytics with cutting-edge technologies, allowing me to dive into the realms of data science and algorithmic trading. With a constant drive to solve complex problems, I'm building a future powered by finance and technology. Join me in exploring the world of quantitative strategies and transformative solutions! 🚀
-
+I’m Hassan El Qadi, a quantitative finance engineering student at ENSA Agadir and a quantitative developer intern at Finamaze.
 </samp></p>
 
 <p align="center">
